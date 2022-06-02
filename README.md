@@ -1,16 +1,23 @@
-### Hi there 👋
+# ToDoList - aplication
+ This application **helps** organize time, you can make your dayly list and add task what you want to do
+ ## What are the benefits of this app ?
+- [ ] You can planed your time
+- [ ] You can save more time
+- [ ] You can be more productive
 
-<!--
-**kubacz002/kubacz002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` c#
+	class program
+	{
+		public static void Main(string args[] test){
+				Console.WriteLine("test")
+			}
+    }
+```
+>ten program jest słaby - Jakub Czarnecki
 
-Here are some ideas to get you started:
+| test || test2 |
+|--| |--|
+| dasads | asdasa |
+|-|--|
+|  asdas| | asdas|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
